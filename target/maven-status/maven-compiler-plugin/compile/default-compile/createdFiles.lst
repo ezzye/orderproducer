@@ -1,0 +1,9 @@
+microservices/ApplicationConfig.class
+microservices/OrderRest$ProcessOrderResponse.class
+microservices/Stock.class
+microservices/Order.class
+microservices/OrderRest.class
+microservices/OrderRest$Nathan.class
+microservices/OrderRest$ProcessOrderRequest.class
+microservices/Application.class
+microservices/ApplicationConfig$JerseyConfig.class

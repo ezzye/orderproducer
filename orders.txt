@@ -1,0 +1,15 @@
+ProcessOrderRequest{productCode='Prod1', orderId=123, qty=1, date=1498661434689, eventId=05544a9a-a038-48fa-9988-226efcf5a8bc}
+ProcessOrderRequest{productCode='Prod1', orderId=123, qty=1, date=1498661454877, eventId=bfad44ec-772d-4cfb-abcb-ad0b80fa20f4}
+{}
+{}
+{}
+{ }
+{ }
+{ }
+{
+  "productCode" : "Prod1",
+  "orderId" : 123,
+  "qty" : 1,
+  "date" : 1498663253113,
+  "eventId" : "e1566f38-9269-4078-8508-b23ec895abda"
+}
